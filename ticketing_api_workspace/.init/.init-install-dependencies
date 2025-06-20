@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/reactfast-ticketing-28627-0fc9eac5/ticketing_api_workspace/ticketing_api"
+}
